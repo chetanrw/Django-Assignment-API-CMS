@@ -18,7 +18,6 @@
 
 **8. Created Superuser:** python manage.py createsuperuser
 
-**9. Run Development Server:** python manage.py runserver
+**9. Created test files:** test_content.py, test_users.py
 
-
-**PF:** Repo contains 2 zip files with the one ('cms.zip') containing entire virtual environment files.
+**10. Run Development Server:** python manage.py runserver
