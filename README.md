@@ -19,3 +19,6 @@
 **8. Created Superuser:** python manage.py createsuperuser
 
 **9. Run Development Server:** python manage.py runserver
+
+
+**PF:** Repo contains 2 zip files with the one containing entire virtual environment files.
