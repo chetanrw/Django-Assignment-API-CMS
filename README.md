@@ -1,6 +1,6 @@
 ## Django-Assignment-API-CMS
 
-#### Setting Up Django Project and with Virtual Environment
+#### APIs for a Content Management System - Setting Up Django Project and with Virtual Environment
 
 **1. Created and Activate Virtual Environment:** python -m venv env
 
